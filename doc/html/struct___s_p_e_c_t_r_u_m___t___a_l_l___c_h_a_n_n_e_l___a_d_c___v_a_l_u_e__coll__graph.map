@@ -1,0 +1,4 @@
+<map id="_SPECTRUM_T_ALL_CHANNEL_ADC_VALUE" name="_SPECTRUM_T_ALL_CHANNEL_ADC_VALUE">
+<area shape="rect" id="node1" title="Struct definition of all ADC channel values. The struct stores the value of each channel during the w..." alt="" coords="11,189,227,281"/>
+<area shape="rect" id="node2" href="$struct___s_p_e_c_t_r_u_m_____t___o_n_e___c_h_a_n_n_e_l___a_d_c___v_a_l_u_e.html" title="ADC value struct definition, for each channel of LG or HG, we create a ADC struct value which corresp..." alt="" coords="5,5,233,127"/>
+</map>

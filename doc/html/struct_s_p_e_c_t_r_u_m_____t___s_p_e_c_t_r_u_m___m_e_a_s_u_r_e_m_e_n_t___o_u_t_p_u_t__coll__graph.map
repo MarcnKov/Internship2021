@@ -1,0 +1,4 @@
+<map id="SPECTRUM__T_SPECTRUM_MEASUREMENT_OUTPUT" name="SPECTRUM__T_SPECTRUM_MEASUREMENT_OUTPUT">
+<area shape="rect" id="node1" title="Contains spectrum histograms output data." alt="" coords="25,175,220,267"/>
+<area shape="rect" id="node2" href="$struct_s_p_e_c_t_r_u_m_____t___s_p_e_c_t_r_u_m___t_y_p_e.html" title="Data structure that contains spectrum histograms for each particle type." alt="" coords="5,5,240,112"/>
+</map>
